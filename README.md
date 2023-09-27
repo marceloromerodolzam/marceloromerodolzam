@@ -5,6 +5,6 @@
 
 ![Marcelo Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloromerodolzam&show_icons=true&theme=radical)
 
-##Tecnologias que utilizo:
+## Tecnologias que utilizo:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
