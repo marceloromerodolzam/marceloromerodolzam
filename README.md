@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-romero-1a6097289/)
 
 
-![Marcelo Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloromerodolzam&show_icons=true&theme=radical)
+![Marcelo Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloromerodolzam&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloromerodolzam&layout=donut)](https://github.com/marceloromerodolzam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloromerodolzam&layout=donut&theme=radical)](https://github.com/marceloromerodolzam/github-readme-stats)
 
 ## Tecnologias que utilizo:
 
